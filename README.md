@@ -1,1 +1,1 @@
-# Happy-sheep-and-grey-wolf
+# Happy sheep and grey wolf
