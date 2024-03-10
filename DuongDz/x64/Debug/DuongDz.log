@@ -1,0 +1,8 @@
+﻿  sheep.cpp
+C:\Users\duong\source\repos\DuongDz\DuongDz\vector2D.h(13,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\duong\source\repos\DuongDz\DuongDz\vector2D.h(14,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\duong\source\repos\DuongDz\DuongDz\sheep.cpp(60,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\duong\source\repos\DuongDz\DuongDz\sheep.cpp(60,64): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\duong\source\repos\DuongDz\DuongDz\sheep.cpp(61,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\duong\source\repos\DuongDz\DuongDz\sheep.cpp(61,62): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  DuongDz.vcxproj -> C:\Users\duong\source\repos\DuongDz\x64\Debug\DuongDz.exe
